@@ -21,8 +21,8 @@ npm install
 npm start
 ```
 
-## Final result
-The final result obtained is the following:
+## Final results
+The final results are the following:
 
 # Milestone 1: Project description and Needfinding
 
@@ -228,7 +228,7 @@ After interviewing the students we were able to identify several user needs:
 Our project will include the possibility to search for quick and simple recipes based on specific ingredients with attention to healthy meals.
 Due to the ease and immediacy of use, our project will consist in a web application for smartphones.
 
-# Milestone 2: Prototyping and Heuristics - McHome
+# Milestone 2: Prototyping and Heuristics
 
 ## Storyboards
 
@@ -329,12 +329,7 @@ A simulation of how it was conducted by the "facilitator" group member and the "
 Furthermore, the facilitator has taken note of some relevant changes to apply to our initial idea, especially to make it clearer and easier to use.
 <br/><br/>
 
-Our evaluators were Dario and Caterina from the "PlanB" group. One of the main problems they pointed out, concerns the user's difficulty in returning to the previous screen to change his search choice. They also noticed that it is not clear what is required to search for at the beginning, whether a recipe or an ingredient. The complete list of the heuristic observations can be found [in this spreadsheet](https://docs.google.com/spreadsheets/d/1b4EV5FjLrLcUdsdpHs_LZsMHt-NNBCAO57-dn3FTfLA/edit#gid=1366595915).
-
-<p align="center">
-  <img src="images/with_evaluator.jpg" height="300"/><br/>
-  <em> Dario, one of the evaluators, testing our prototypes.</em>
-</p>
+Our evaluators were Dario and Caterina from the "PlanB" group. One of the main problems they pointed out, concerns the user's difficulty in returning to the previous screen to change his search choice. They also noticed that it is not clear what is required to search for at the beginning, whether a recipe or an ingredient. 
 
 After carefully thinking through the recommendations in the evaluation made we decided that focusing on improving the first prototype would be the best option for our project. We made this decision because this version had what we consider a crucial feature for the usage by the target group: it can be used quickly and easily wherever the person is.
 
@@ -366,8 +361,6 @@ Following the analysis of the evaluators carried out during M2, in the prototype
 Make it clearer what can be searched for by using the search bars, both on the homepage and the screen showing the resulting recipes
 A more consistent way to return to the main screen to start the search for a new recipe
 
-A higher resolution version of the prototypes can be found [in this PDF document](https://github.com/polito-hci-2021/McHome/raw/master/M3/images/medium_prototype.pdf).
-
 # Milestone 4: Usability Testing - [McHome]
 
 ## Overview and Script
@@ -382,50 +375,28 @@ The test objectives for the usability study are to evaluate the website relative
 - Refine the search by adding another ingredient
 - Add a recipe to the favorites and browse them
 
-More details can be found in the usability testing protocol, including the script, [at this link.](https://github.com/polito-hci-2021/McHome/blob/master/M4/additional_files/usability_testing_protocol.md)
+More details can be found in the usability testing protocol, including the script, [at this link.](https://github.com/include-jacopo/McHome/tree/main/additional_files/usability_testing_protocol.md)
 
 ## Results and List of Changes
 
 In the next section we report our results, noticed elaborating the notes taken during the usability test, and impressions, obtained from the quick debrief we had with the participants at the end of the session. We then analyze the times taken for the tasks that required it and the results of the post-test questionnaire. Finally, we will illustrate a list of possible changes.
 
-All the signed informed consent can be found [on this page.](https://github.com/polito-hci-2021/McHome/tree/master/M4/additional_files/informed_consent_signed)
-
 ### Success and pain points
 The first user to test the McHome app was Paolo. During his trial, we noticed that in the task "Filter recipes based on a medium budget" the buttons to filter the cost in the dropdown menu were not very explanatory, as the user did not immediately understand the correspondence (Medium cost)->(€€). Beyond this, he had no particular difficulties using the application and enjoyed it.
 
-<p align="center">
-  <img src="images/Paolo_Cost_Filter.png" height="450"/><br/>
-  <em>Paolo asked us how he could see the cost of a recipe from the search page.</em>
-</p>
 
 Erika was the second user who tested our app. She used the app smoothly from the start, showing no difficulty in solving tasks. This easiness may happen since Erika told us that she is very comfortable with social networks and smartphone applications during her recruitment. This way, she may have found a common thread with our app, and we are pleased about this.
 
-<p align="center">
-  <img src="images/Erika_interview.png" height="450"/><br/>
-  <em>Erika performing one of the tasks, add a second ingredient to the research.</em>
-</p>
 
 The third user was Alessia. She found the application very easy to use and really liked that she could filter recipes based on the budget and how much time she spent cooking. Since she is a creature of habit, she said that she would use the "favorite recipes" feature a lot.
 A problem highlighted by Alessia was related to the repetition of recipes following the search: in fact, as we can see from the screenshot below, the "Eggplants Roll" recipe is shown both as a result of the search for recipes with "Eggplant" and "Ham", and also in the list of suggestion "All recipes with: eggplants". We thought of the second section as a possible help for students who may not have found recipes they like with other ingredients or filters they applied, but we also believe that the page should not display duplicate recipes with the first section.
 
-<p align="center">
-    <img src="images/Alessia_interview(2).png" height="450"/><br/>
-  <em>Alessia, with the duplicate recipe. As we can see it is in the list of result and also in the list of suggestion based on the first ingredient added.</em>
-</p>
 
 In the fourth test, Chiara could use the app without any additional help. She explained that she would use the application frequently, but she would like some suggested recipes displayed on the main screen to get some inspiration. She also added that an older user might not successfully search for recipes by ingredients. Instead, they would try to search directly by the recipe's name according to some websites about cooking. Nevertheless, we believe that in the search bar, it is well specified that you have to start from an ingredient, not from a recipe. Precisely for this reason, showing example recipes on the main page can be equivocal.
 
-<p align="center">
-  <img src="images/Chiara_Interview.png" height="450"/><br/>
-  <em>Chiara, consulting her favorite recipes.</em>
-</p>
 
 The fifth and final test with João was successful. He was able to complete all the tasks without significant missteps. At the end of the testing, João gave feedback that we would appreciate that the filter window would close automatically after applying one filter. However, since we want to allow users to apply more than one filter at once, we decided to leave that feature.
 
-<p align="center">
-  <img src="images/joao_interview.png" height="450"/><br/>
-  <em>João, consulting the account email.</em>
-</p>
 
 ### Evaluation findings
 After testing the five users, all candidates could complete all tasks effortlessly on their own. The tasks for which the success criterion required recording times are the following:
@@ -457,7 +428,7 @@ The results of the Post-Test Questionnaire (SUS) are the following:
 | Chiara De Giorgi | 92,5      |
 | João Martins     | 100       |
 
-The average score is 96.5. Our score is above the one needed to be considered an above-average result (68). Thus, these results reflect a positive perceived usability of the system by the testing users and contribute to a positive evaluation of our system usability. All questionnaires filled can be found [on this page.](https://github.com/polito-hci-2021/McHome/tree/master/M4/additional_files/post_test_questionnaire_filled)
+The average score is 96.5. Our score is above the one needed to be considered an above-average result (68). Thus, these results reflect a positive perceived usability of the system by the testing users and contribute to a positive evaluation of our system usability. 
 
 Analyzing the results more in detail, we can see that most users did not give the maximum score for the question "I think that I would like to use this system frequently". We believe it may be because students don't often go out of their comfort zone in the culinary field, as once they discover a new favorite recipe they tend to cook it often, but despite this everyone has had a positive reaction to the application and this for us it is already a success.
 
