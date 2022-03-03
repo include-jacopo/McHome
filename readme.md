@@ -18,7 +18,7 @@ npm start
 cd ..
 cd server
 npm install
-npm start
+nodemon server.js
 ```
 
 ## Final results
