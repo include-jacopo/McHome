@@ -25,12 +25,12 @@ nodemon server.js
 The final results are the following:
 
 <p align="center">
-  <img src="images/iphone_1.png" height="1000"/><br/>
+  <img src="images/iphone_1.png" /><br/>
   <em>Home screen and the page with the list of results.</em>
 </p>
 
 <p align="center">
-  <img src="images/iphone_2.png" height="1000"/><br/>
+  <img src="images/iphone_2.png" /><br/>
   <em>Recipe and favorite page.</em>
 </p>
 
