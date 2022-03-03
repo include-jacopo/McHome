@@ -24,6 +24,17 @@ nodemon server.js
 ## Final results
 The final results are the following:
 
+<p align="center">
+  <img src="images/iphone_1.png" height="1000"/><br/>
+  <em>Home screen and the page with the list of results.</em>
+</p>
+
+<p align="center">
+  <img src="images/iphone_2.png" height="1000"/><br/>
+  <em>Recipe and favorite page.</em>
+</p>
+
+
 # Milestone 1: Project description and Needfinding
 
 ## Overview and planning
