@@ -1,0 +1,48 @@
+@media (min-width: 321px) {
+    .cover-row{
+        object-fit: cover;
+        width: 334px;
+        height: 120px;
+        margin-left: -12px;
+        cursor: pointer;
+    }
+  }
+
+@media (max-width: 320px) {
+    .cover-row{
+        object-fit: cover;
+        width: 294px;
+        height: 120px;
+        margin-left: -12px;
+        cursor: pointer;
+    }
+  }
+
+.heart-fill{
+    font-size: 20px;
+    color: red;
+    cursor: pointer;
+    margin-left: 0.5em;
+}
+
+.heart{
+    font-size: 20px;
+    color: black;
+    cursor: pointer;
+    margin-left: 0.5em;
+}
+
+
+.font-desc{
+    color: grey;
+}
+
+.clock{
+    font-size: 14px;
+    margin-left: 5px;
+}
+
+.details{
+    display: flex;
+    align-items: center;
+}

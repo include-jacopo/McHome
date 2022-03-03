@@ -1,0 +1,45 @@
+@media (min-width: 321px) {
+    .cover-recipe{
+        object-fit: cover;
+        height: 230px;
+        width: 334px;
+        margin-left: -12px;
+    }
+  }
+
+@media (max-width: 320px) {
+    .cover-recipe{
+        object-fit: cover;
+        height: 160px;
+        width: 318px;
+        margin-left: -12px;
+    }
+  }
+  
+.margin-bottom{
+    margin-bottom: 1em;
+}
+
+.ingredient{
+    margin-top: -18px;
+    font-size: 14px;
+}
+
+.heart-recipe-fav{
+    font-size: 25px;
+    color: red;
+    cursor: pointer;
+}
+
+.heart-recipe{
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.arrow-top{
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    font-size: 35px;
+    color: black;
+}
