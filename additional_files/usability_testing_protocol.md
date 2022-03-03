@@ -24,8 +24,8 @@ The facilitator will record the shared screen used by the participant for the te
 
 ### Test artifacts
 - Facilitator script
-- Consent form - [link to the blank document here](https://github.com/polito-hci-2021/McHome/raw/master/M4/additional_files/Informed_consent_form.docx)
-- Post-test questionnaire (SUS) - [link to the blank document here](https://github.com/polito-hci-2021/McHome/raw/master/M4/additional_files/Post_test_questionnaire.docx)
+- Consent form - [link to the blank document here](https://github.com/include-jacopo/McHome/tree/main/additional_files/Informed_consent_form.docx)
+- Post-test questionnaire (SUS) - [link to the blank document here](https://github.com/include-jacopo/McHome/tree/main/additional_files/Post_test_questionnaire.docx)
 
 ## Equipment
 During the test carried out in the Zoom call the following equipment will be used:
