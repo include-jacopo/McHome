@@ -341,7 +341,7 @@ To achieve this, we come up with a list of potential changes to improve it:
 
 By implementing these changes the user will be able to use the application in an even more immediate way.
 
-# Milestone 3: Wireframe - McHome
+# Milestone 3: Wireframe 
 
 ## Wireframe
 
@@ -361,7 +361,7 @@ Following the analysis of the evaluators carried out during M2, in the prototype
 Make it clearer what can be searched for by using the search bars, both on the homepage and the screen showing the resulting recipes
 A more consistent way to return to the main screen to start the search for a new recipe
 
-# Milestone 4: Usability Testing - [McHome]
+# Milestone 4: Usability Testing
 
 ## Overview and Script
 
@@ -403,11 +403,11 @@ After testing the five users, all candidates could complete all tasks effortless
 
 | #                | Task 1 (25 sec) | Task 2 (20 sec) | Task 3 (20 sec) |
 | ---------------- | --------------- | --------------- | --------------- |
-| Paolo Romeo      | 20 sec ✅       | 18 sec ✅       | 13 sec ✅       |
-| Erika Monittola  | 11 sec ✅       | 10 sec ✅       | 5 sec ✅        |
-| Alessia Mengoni  | 20 sec ✅       | 7 sec ✅        | 7 sec ✅        |
-| Chiara De Giorgi | 22 sec ✅       | 8 sec ✅        | 4 sec ✅        |
-| João Martins     | 10 sec ✅       | 16 sec ✅       | 19 sec ✅       |
+| Paolo R.      | 20 sec ✅       | 18 sec ✅       | 13 sec ✅       |
+| Erika M.  | 11 sec ✅       | 10 sec ✅       | 5 sec ✅        |
+| Alessia M.  | 20 sec ✅       | 7 sec ✅        | 7 sec ✅        |
+| Chiara D.G. | 22 sec ✅       | 8 sec ✅        | 4 sec ✅        |
+| João M.     | 10 sec ✅       | 16 sec ✅       | 19 sec ✅       |
 | Average          | 16.6 sec        | 11.8 sec        | 9.6 sec         |
 
 As can be seen, users could meet the limits set by the team in the definition phase. 
@@ -422,11 +422,11 @@ The results of the Post-Test Questionnaire (SUS) are the following:
 
 | #                | SUS score |
 | ---------------- | --------- |
-| Paolo Romeo      | 95        |
-| Erika Monittola  | 100       |
-| Alessia Mengoni  | 95        |
-| Chiara De Giorgi | 92,5      |
-| João Martins     | 100       |
+| Paolo R.      | 95        |
+| Erika M.  | 100       |
+| Alessia M.  | 95        |
+| Chiara D.G. | 92,5      |
+| João M.     | 100       |
 
 The average score is 96.5. Our score is above the one needed to be considered an above-average result (68). Thus, these results reflect a positive perceived usability of the system by the testing users and contribute to a positive evaluation of our system usability. 
 
